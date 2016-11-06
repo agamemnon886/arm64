@@ -18,4 +18,3 @@ $ aarch64-linux-gnu-gcc -o bubble_sort_arm64 bubble_sort_arm64.S
 3) Run program:
 
 $ qemu-aarch64 -L /usr/aarch64-linux-gnu/ ./bubble_sort_arm64
-
